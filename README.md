@@ -1,4 +1,4 @@
-#Grammable
+# Grammable
 
 Grammable is a Twitter clone that allows users to upload images and share them with other users. User uploading of images is supported by Amazon Web Services.
 
