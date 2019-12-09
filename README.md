@@ -1,8 +1,10 @@
 # Grammable
 
-Grammable is a Twitter clone that allows users to upload images and share them with other users. User uploading of images is supported by Amazon Web Services.
+Grammable is a Twitter clone that allows users to upload images and share them with other users.
 
-Grammable was written with Ruby on Rails and HTML5. Postgresql was used for the database. Grammable is deployed on Heroku.
+## Built With
+
+Grammable was written with HTML5, CSS, Ruby version 2.5.3 on Rails version 5.2.3. Postgresql was used for the database. The Devise Gem is used for user authentication. Amazon Web Services is used to manage user uploaded images. Grammable is deployed on Heroku.
 
 You can run Grammable in your browser at https://grammable-sarah-gustafson.herokuapp.com/
 
